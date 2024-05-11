@@ -1,6 +1,6 @@
 baseURL = 'https://photos.hxhc.xyz/'
-languageCode = 'en-us'
-title = 'HXHC Photos'
+languageCode = 'zh-CN'
+title = ''
 theme = "gallery"
 
 [params]

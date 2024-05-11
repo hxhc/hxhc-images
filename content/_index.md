@@ -1,7 +1,7 @@
 ---
-description: Just for fun!
+description: 已识乾坤大，犹怜草木青
 #lastmod: 2023-07-05
-title: "Total Photos"
+title: "HXHC Photos"
 featured: true
 featured_image: home.jpg # default: first image in this directory
 params:
