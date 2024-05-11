@@ -8,9 +8,10 @@ def compress_image(input_image):
     size = os.path.getsize(input_image)
     if size >= 5 * 1024 * 1024:
         quality = 50
-    else:
+    elif size >= 2 * 1024 * 1024:
         quality = 70
-
+    else:
+        quality = 95
     with Image.open(input_image) as image:
 
         image.save(input_image, optimize=True, quality=quality)
