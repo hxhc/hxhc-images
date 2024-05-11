@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HXHC Photos</title>
+    <link>https://photos.hxhc.xyz/</link>
+    <description>Recent content on HXHC Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://photos.hxhc.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casual</title>
+      <link>https://photos.hxhc.xyz/scenery/casual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://photos.hxhc.xyz/scenery/casual/</guid><media:content url="https://photos.hxhc.xyz/scenery/casual/_hu1035928778f49ac9eff46ac11c4536ad_600929_682702e7177db5c5c662db37b097c6de.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photos.hxhc.xyz/scenery/casual/_hu1035928778f49ac9eff46ac11c4536ad_600929_682702e7177db5c5c662db37b097c6de.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>West Lake</title>
+      <link>https://photos.hxhc.xyz/scenery/westlake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://photos.hxhc.xyz/scenery/westlake/</guid><media:content url="https://photos.hxhc.xyz/scenery/westlake/featured-image_huf0b3753b58fba8af91bcf6770775919d_7555748_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photos.hxhc.xyz/scenery/westlake/featured-image_huf0b3753b58fba8af91bcf6770775919d_7555748_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Plants</title>
+      <link>https://photos.hxhc.xyz/plants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://photos.hxhc.xyz/plants/</guid><media:content url="https://photos.hxhc.xyz/plants/featured-image_hu92328233f82ef83fb2a1a492ed2b518d_6990617_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photos.hxhc.xyz/plants/featured-image_hu92328233f82ef83fb2a1a492ed2b518d_6990617_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

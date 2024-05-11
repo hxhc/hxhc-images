@@ -1,0 +1,8 @@
+baseURL = 'https://photos.hxhc.xyz/'
+languageCode = 'en-us'
+title = 'HXHC Photos'
+theme = "gallery"
+[params]
+    [params.socialIcons]
+    github = "https://github.com/hxhc"
+    email = "mailto:zsheng@outlook.com"
