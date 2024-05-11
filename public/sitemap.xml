@@ -2,12 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/scenery/casual/</loc>
+    <loc>https://photos.hxhc.xyz/scenery/casual/</loc>
   </url><url>
-    <loc>http://localhost:1313/scenery/westlake/</loc>
+    <loc>https://photos.hxhc.xyz/scenery/westlake/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://photos.hxhc.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/plants/</loc>
+    <loc>https://photos.hxhc.xyz/plants/</loc>
+  </url><url>
+    <loc>https://photos.hxhc.xyz/scenery/</loc>
+  </url><url>
+    <loc>https://photos.hxhc.xyz/tags/</loc>
+  </url><url>
+    <loc>https://photos.hxhc.xyz/</loc>
   </url>
 </urlset>

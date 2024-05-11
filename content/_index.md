@@ -1,7 +1,7 @@
 ---
 description: Just for fun!
 #lastmod: 2023-07-05
-title: HXHC Photos
+title: "Total Photos"
 featured: true
 featured_image: home.jpg # default: first image in this directory
 params:

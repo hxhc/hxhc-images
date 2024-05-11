@@ -2,7 +2,7 @@ baseURL = 'https://photos.hxhc.xyz/'
 languageCode = 'en-us'
 title = 'HXHC Photos'
 theme = "gallery"
-disableKinds = ["taxonomy", "term", "section"]
+
 [params]
     [params.socialIcons]
     github = "https://github.com/hxhc"
