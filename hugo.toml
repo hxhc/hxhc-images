@@ -2,7 +2,21 @@ baseURL = 'https://photos.hxhc.xyz/'
 languageCode = 'en-us'
 title = 'HXHC Photos'
 theme = "gallery"
+disableKinds = ["taxonomy", "term", "section"]
 [params]
     [params.socialIcons]
     github = "https://github.com/hxhc"
     email = "mailto:zsheng@outlook.com"
+
+[imaging]
+  quality = 90
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]

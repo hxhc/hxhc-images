@@ -6,14 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/scenery/westlake/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/plants/</loc>
-  </url><url>
-    <loc>http://localhost:1313/scenery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
