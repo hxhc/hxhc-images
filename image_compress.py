@@ -2,9 +2,10 @@ import os
 import pathlib
 from PIL import Image
 import multiprocessing
+import argparse
 
 
-def compress_image(input_image):
+def compress_image(input_image)->None:
     print(f"Compressing: {input_image}")
     size = os.path.getsize(input_image)
     if size >= 5 * 1024 * 1024:
@@ -18,9 +19,13 @@ def compress_image(input_image):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-f", "--file_path", type=str)
+    args = parser.parse_args()
+
     image_list = []
     for ext in ["jpg", "png", "webp"]:
-        image_list += [x for x in pathlib.Path("./content").rglob(f"*.{ext}")]
+        image_list += [x for x in pathlib.Path(args.file_path).rglob(f"*.{ext}")]
     print(f"Found {len(image_list)} images")
     print("Compressing images...")
     print("======================")
